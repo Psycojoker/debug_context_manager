@@ -9,6 +9,10 @@ This is a nicier way than using a `print` before and a `print` after the code
 
 It also logically group lines of code in a log procedure in meaninful sections.
 
+# Installation
+
+    pip install debug_context_manager
+
 # Usage
 
 ```python
