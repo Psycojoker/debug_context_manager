@@ -22,6 +22,8 @@ Will result in displaying:
 
     Doing this stuff ... <here waits for code to run>done
 
+And:
+
 ```python
 with debug("Doing other stuff", "and finished!"):
     # other code
